@@ -1,4 +1,7 @@
-# Netlify/FaunaDB TodoMVC Single Page Application
+# [Deprecated] Netlify/FaunaDB TodoMVC Single Page Application
+
+**Note: This repo is no longer supported. Please use this repo instead: https://github.com/netlify/netlify-faunadb-example**
+
 
 Have you ever wanted the simplest possible backend for your single page applications?
 With multi-cloud powers? One you don't have to pay for unless there's traffic to your page, and can stand up
